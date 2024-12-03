@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/softswiff/static/css/main.bee129d1.css",
-    "main.js": "/softswiff/static/js/main.8a03d209.js",
+    "main.css": "/softswiff/static/css/main.e801d8ad.css",
+    "main.js": "/softswiff/static/js/main.9e84d2c2.js",
     "static/js/453.7dc1935c.chunk.js": "/softswiff/static/js/453.7dc1935c.chunk.js",
     "static/media/space-one.webp": "/softswiff/static/media/space-one.c00d94a50fac18770ac6.webp",
+    "static/media/space-five.webp": "/softswiff/static/media/space-five.8be95e3745b49533122b.webp",
+    "static/media/space-four.webp": "/softswiff/static/media/space-four.b68200d077eff4ae3b21.webp",
+    "static/media/space-two.webp": "/softswiff/static/media/space-two.88a49d2dd051eee2a87f.webp",
+    "static/media/space-three.webp": "/softswiff/static/media/space-three.10ac13dfe85c9b0655d6.webp",
     "static/media/planet.webp": "/softswiff/static/media/planet.5a47aaaee73b4b3a249d.webp",
+    "static/media/rocket.webp": "/softswiff/static/media/rocket.5c9f0a9c788a924bf2ce.webp",
     "index.html": "/softswiff/index.html",
-    "main.bee129d1.css.map": "/softswiff/static/css/main.bee129d1.css.map",
-    "main.8a03d209.js.map": "/softswiff/static/js/main.8a03d209.js.map",
+    "main.e801d8ad.css.map": "/softswiff/static/css/main.e801d8ad.css.map",
+    "main.9e84d2c2.js.map": "/softswiff/static/js/main.9e84d2c2.js.map",
     "453.7dc1935c.chunk.js.map": "/softswiff/static/js/453.7dc1935c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bee129d1.css",
-    "static/js/main.8a03d209.js"
+    "static/css/main.e801d8ad.css",
+    "static/js/main.9e84d2c2.js"
   ]
 }
