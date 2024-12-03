@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/softswiff/static/css/main.2e584037.css",
+    "main.css": "/softswiff/static/css/main.c336ae4b.css",
     "main.js": "/softswiff/static/js/main.9e84d2c2.js",
     "static/js/453.7dc1935c.chunk.js": "/softswiff/static/js/453.7dc1935c.chunk.js",
     "static/media/space-one.webp": "/softswiff/static/media/space-one.c00d94a50fac18770ac6.webp",
@@ -11,12 +11,12 @@
     "static/media/planet.webp": "/softswiff/static/media/planet.5a47aaaee73b4b3a249d.webp",
     "static/media/rocket.webp": "/softswiff/static/media/rocket.5c9f0a9c788a924bf2ce.webp",
     "index.html": "/softswiff/index.html",
-    "main.2e584037.css.map": "/softswiff/static/css/main.2e584037.css.map",
+    "main.c336ae4b.css.map": "/softswiff/static/css/main.c336ae4b.css.map",
     "main.9e84d2c2.js.map": "/softswiff/static/js/main.9e84d2c2.js.map",
     "453.7dc1935c.chunk.js.map": "/softswiff/static/js/453.7dc1935c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e584037.css",
+    "static/css/main.c336ae4b.css",
     "static/js/main.9e84d2c2.js"
   ]
 }
